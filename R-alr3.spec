@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.0.5
-Release:          1
+Release:          2
 Summary:          Data to accompany Applied Linear Regression 3rd edition
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
