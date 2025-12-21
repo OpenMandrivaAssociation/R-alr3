@@ -12,6 +12,7 @@ Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.t
 BuildArch:        noarch
 Requires:         R-core
 Requires:         R-car 
+BuildRequires:	make
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-car
 
 %description
